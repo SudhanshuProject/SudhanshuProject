@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Sudhanshu Ranjan
 - 👀 I’m interested in Data Science And Software Development
 - 🌱 I’m currently learning Advance Data Analytics Tools And Web Developnment
-    Love To Play With Data 
+- 💕 Love To Play With Data 
+
 
 
 <!---
